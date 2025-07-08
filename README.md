@@ -1,10 +1,35 @@
-- 👋 Hi, I’m @GeorgeDeri
-- 👀 I’m interested in learning programming..
-- 🌱 I’m currently learning Python & Javascript ...
-- 💞️ I’m looking to collaborate on any task...
-- 📫 How to reach me ...
+# Hi, I'm George 👋
 
-<!---
-GeorgeDeri/GeorgeDeri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+💻 Web Developer | 🎨 Product Designer | 📍 Abuja, Nigeria
+
+I'm passionate about crafting clean interfaces and scalable websites that put users first.
+
+## 🚀 What I Do
+
+* 🔥 Frontend Development with HTML, CSS, JavaScript, React
+* 🧠 Product Design with Figma and design systems
+* 🎯 UX Strategy & User Research
+* ⚙️ Prototyping and testing
+
+## 🛠️ Tech Stack
+
+**Languages & Frameworks:**
+`HTML` `CSS` `JavaScript` `React` `Tailwind` `Next.js`
+
+**Tools & Design:**
+`Figma`  `AdobeXD`   `Canva`  
+
+`Framer` `Notion` `Vercel` `Git` 'VSCode'
+
+## 📁 Projects
+
+* [`devport`](https://github.com/creativedev-gb/devport) — Portfolio template for creative developers
+* [`marketmint`](https://github.com/creativedev-gb/marketmint) — Minimalist landing page for a digital product
+* [`figma-to-code`](https://github.com/creativedev-gb/figma-to-code) — Figma designs turned into responsive code
+
+## 📫 Let's Connect
+
+* [Twitter](https://twitter.com/kinggeorge_ivx)
+
+
 --->
